@@ -1,0 +1,7 @@
+﻿  MultiProccessMatrices.cpp
+  You may be using a weak algorithm that has been retained for backwards compatibility. Please '#define CRYPTOPP_ENABLE_NAMESPACE_WEAK 1' before including this .h file and prepend the class name with 'Weak::' to remove this warning.
+E:\code\vs_proj\THI_PRV\THI_lab3_2\MultiProccessMatrices.cpp(110,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\code\vs_proj\THI_PRV\THI_lab3_2\MultiProccessMatrices.cpp(111,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  THI_lab3_2.vcxproj -> E:\code\vs_proj\THI_PRV\THI_lab3_2\x64\Debug\THI_lab3_2.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.
