@@ -1,0 +1,12 @@
+﻿  THI_lab3.cpp
+  You may be using a weak algorithm that has been retained for backwards compatibility. Please '#define CRYPTOPP_ENABLE_NAMESPACE_WEAK 1' before including this .h file and prepend the class name with 'Weak::' to remove this warning.
+E:\code\vs_proj\THI_PRV\THI_lab3\THI_lab3.cpp(38,45): warning C4242: '=': conversion from 'int' to '_Elem', possible loss of data
+E:\code\vs_proj\THI_PRV\THI_lab3\THI_lab3.cpp(38,45): warning C4242:         with
+E:\code\vs_proj\THI_PRV\THI_lab3\THI_lab3.cpp(38,45): warning C4242:         [
+E:\code\vs_proj\THI_PRV\THI_lab3\THI_lab3.cpp(38,45): warning C4242:             _Elem=char
+E:\code\vs_proj\THI_PRV\THI_lab3\THI_lab3.cpp(38,45): warning C4242:         ]
+E:\code\vs_proj\THI_PRV\THI_lab3\THI_lab3.cpp(173,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\code\vs_proj\THI_PRV\THI_lab3\THI_lab3.cpp(174,41): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  THI_lab3.vcxproj -> E:\code\vs_proj\THI_PRV\THI_lab3\x64\Debug\THI_lab3.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.
